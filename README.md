@@ -2,6 +2,6 @@
 
 /hack OK 
 
-/chain KO
+/chain OK
 
 /box OK
